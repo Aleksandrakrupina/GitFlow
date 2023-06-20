@@ -10,3 +10,6 @@ def title_func(s):
     Делает заглавными первые буквы каждого слова в строке
     """
     return s.title()
+
+
+print(str_func('line'))
